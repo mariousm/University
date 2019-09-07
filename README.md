@@ -1,2 +1,2 @@
-# University
-Trabajos Universitarios - Grado en Ingeniería Informática
+# Trabajos Universitarios - Grado en Ingeniería Informática
+## Compañero de prácticas: Jorge Navarro
